@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{00279A8C-8691-4644-AF3E-A8232D799367}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoApi/Program.cs">
+    <Files>
+      <File FileName="TodoApi/Program.cs" Line="35" Column="1" />
+      <File FileName="TodoApi/Models/TodoItem.cs" Line="13" Column="1" />
+      <File FileName="TodoApi/Models/TodoContext.cs" Line="1" Column="1" />
+      <File FileName="TodoApi/Controllers/TodoItemsController.cs" Line="120" Column="2" />
+      <File FileName="TodoApi/Models/TodoItemDTO.cs" Line="4" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoApi" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TodoApi FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TodoApi PreferredExecutionTarget="/Applications/Brave Browser.app" />
 </Properties>
